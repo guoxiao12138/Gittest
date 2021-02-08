@@ -8,6 +8,7 @@ public class HElloGit {
 	System.out.println("创建分支1");
 	System.out.println("创建分支2");
 	System.out.println("主线添加");
+	System.out.println("主线添加2");
 	}
 
 }
